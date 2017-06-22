@@ -1,3 +1,7 @@
+Toko Asui v1.2 update
+    - rebuild some code
+    - fix bug when confirm edit
+
 Toko Asui v1.1 update
     - rebuild code
 
